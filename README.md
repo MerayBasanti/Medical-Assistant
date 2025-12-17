@@ -330,12 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This chatbot is for **informational purposes only** and should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with questions about medical conditions.
 
-## 👨‍💻 Author
-
-**Sathvik**
-- HuggingFace: [@sathvik123](https://huggingface.co/sathvik123)
-- Model: [llama3-ChatDoc](https://huggingface.co/sathvik123/llama3-ChatDoc)
-
 ## 🙏 Acknowledgments
 
 - **LLaMA 3** by Meta AI
