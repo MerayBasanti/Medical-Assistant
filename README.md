@@ -2,6 +2,9 @@
 
 A sophisticated RAG (Retrieval-Augmented Generation) based medical chatbot powered by fine-tuned LLaMA 3 and advanced NLP techniques. This system combines document retrieval, semantic search, and large language models to provide accurate medical information and assistance.
 
+## Demo Video 
+https://github.com/MerayBasanti/Medical-Assistant/blob/main/demo.mp4
+
 ## 🌟 Features
 
 - **Fine-Tuned LLaMA 3 Model**: Custom-trained on 112K+ medical Q&A pairs for domain-specific accuracy
