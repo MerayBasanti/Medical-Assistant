@@ -41,19 +41,19 @@ https://raw.githubusercontent.com/MerayBasanti/Medical-Assistant/main/demo.mp4
 └────────┬────────┘
          │
          ▼
-┌─────────────────────────────┐
-│    RAG Pipeline             │
+┌────────────────────────────┐
+│       RAG Pipeline         │
 │  ┌─────────────────────┐   │
 │  │ Document Retrieval  │   │
 │  │   (ChromaDB)        │   │
 │  └─────────┬───────────┘   │
-│            │                │
-│            ▼                │
+│            │               │
+│            ▼               │
 │  ┌─────────────────────┐   │
 │  │  Context Injection  │   │
 │  └─────────┬───────────┘   │
-│            │                │
-│            ▼                │
+│            │               │
+│            ▼               │
 │  ┌─────────────────────┐   │
 │  │  LLaMA 3 (GGUF)     │   │
 │  │  Fine-tuned Model   │   │
